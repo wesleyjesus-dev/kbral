@@ -1,7 +1,7 @@
-// chunk is like sequence of bytecode
 #ifndef kbral_chunk_h
 #define kbral_chunk_h
 
+#include "chunk.h"
 #include "common.h"
 #include "memory.h"
 
